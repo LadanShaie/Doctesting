@@ -61,6 +61,7 @@ def most_and_least_common_type(treats):
         >>> most_and_least_common_type(treats)
         (None, None)
     """
+    
     types = {}
 
     # Count number of each type
